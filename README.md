@@ -30,7 +30,7 @@ just diplay:
 ⎣               ⎦⎣               ⎦⎣               ⎦⎣   ⎦
 
 ```
-or with values
+or with values (it may not work as intented with large matrices):
 ```
                  ⎡               ⎤                                  
                  ⎢ 1.0  0.0  0.0 ⎥                                  
